@@ -1,0 +1,26 @@
+{
+  "page": {
+    "id": "d4d20728-2f69-4721-9383-82c1b8f5371f",
+    "slug": "bedroom",
+    "title": "Bedroom",
+    "description": "The bedroom",
+    "status": "published",
+    "metaTitle": null,
+    "metaDescription": null,
+    "ogImage": null,
+    "createdAt": "2025-12-31T18:44:14.000Z",
+    "updatedAt": "2025-12-31T18:45:33.000Z"
+  },
+  "blocks": [
+    {
+      "id": "b1c6177b-1a27-4c17-ba23-111c72fd2aec",
+      "type": "markdown",
+      "order": 0,
+      "content": {
+        "markdown": "## Totally a bedroom, for real\n\nyes\n\n_maybe_"
+      },
+      "createdAt": "2025-12-31T18:44:46.000Z",
+      "updatedAt": "2025-12-31T18:44:46.000Z"
+    }
+  ]
+}
